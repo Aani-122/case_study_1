@@ -9,8 +9,9 @@ This system analyzes videos by combining visual and audio information to generat
 To use this application, you need a Gemini API key from Google AI Studio:
 
 1. Visit [Google AI Studio](https://ai.google.dev/gemini-api/docs/api-key) to get your API key
-2. Set up your API key as an environment variable:
+2. Set up your API key as an environment variable:(if you wnat to run notebook[experiments])
    - **Windows**: Search for "Environment Variables" in system settings and add `GEMINI_API_KEY=your_key_here`
+3.paste your api key as it is in the sidebar in app.
    
 
 ## Installation
