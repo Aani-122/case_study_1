@@ -36,7 +36,6 @@ streamlit run streamlit_video_summary.py
 
 ### 1. Local Video Summary
 - Upload and analyze local video files
-- Extract frames and audio from the video
 - Generate comprehensive summaries using AI models
 
 ### 2. YouTube Video Summary
